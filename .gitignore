@@ -1,0 +1,6 @@
+node_modules
+.idea
+*.pptx
+Steps.js
+*.db
+*.zip
